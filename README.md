@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanisha Bisht
-- 👀 I’m a Frontend web Developer
+- 👀 I’m a Frontend web Developer (Fresher)
 -   skills : HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic)
 - 💞️ I’m looking for a full time job appourtunity
 - 📫 Contact me on tanishabisht007@gmail.com
