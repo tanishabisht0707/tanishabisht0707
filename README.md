@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanishabisht0707
+- 👋 Hi, I’m Tanisha Bisht
 - 👀 I’m a Frontend Devlopment
 - 🌱 I’m currently learning Reactjs and Javascript
 - 💞️ I’m looking for a full time job appourtunity
