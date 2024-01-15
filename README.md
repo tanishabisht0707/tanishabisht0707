@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanisha Bisht
-- 👀 I’m a Frontend Devlopment
+- 👀 I’m a Frontend web Developer
 - 🌱 I’m currently learning Reactjs and Javascript
 - 💞️ I’m looking for a full time job appourtunity
 - 📫 Contact me on tanishabisht007@gmail.com
