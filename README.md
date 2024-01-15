@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanisha Bisht
 - 👀 I’m a Frontend web Developer
-- - skils : HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic)
+-   skills : HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic)
 - 💞️ I’m looking for a full time job appourtunity
 - 📫 Contact me on tanishabisht007@gmail.com
 - 😄 Pronouns : Tanisha Bisht
