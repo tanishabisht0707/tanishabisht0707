@@ -1,6 +1,6 @@
 console.log( Namaste 🙏)
 
-const tanisha {
+const tanisha { </br>
  👋 intro :  Hi, I’m Tanisha Bisht, </br>
  👀 iam   : A Frontend web Developer,</br>
  📝 skills : [ HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic) ],</br>
