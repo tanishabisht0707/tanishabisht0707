@@ -1,7 +1,7 @@
 console.log( Namaste 🙏)
 
 const tanisha {
- 👋 intro :  Hi, I’m Tanisha Bisht,
+ 👋 intro :  Hi, I’m Tanisha Bisht, </br>
  👀 iam   : A Frontend web Developer,
  📝 skills : [ HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic) ],
  📞 Contact : Contact me on tanishabisht007@gmail.com,
