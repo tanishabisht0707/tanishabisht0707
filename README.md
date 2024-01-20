@@ -8,7 +8,7 @@ const tanisha { </br>
  📞 Contact : Contact me on tanishabisht007@gmail.com,</br>
  👉 Pronouns :she/her,</br>
  😊 Hobbies : Dancing and yoga</br>
- 😎  First big project : http://127.0.0.1:5500/sneaks.html </br>
+ 😎  First project : http://127.0.0.1:5500/sneaks.html </br>
  👉  Languages : [ Html , CSS , Javascript ] </br>
  </br>
   }
