@@ -1,4 +1,4 @@
-console.log( Namaste 🙏)
+<b>console.log( Namaste 🙏)</b>
 
 const tanisha { </br>
 </br>
