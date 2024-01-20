@@ -2,11 +2,11 @@ console.log( Namaste 🙏)
 
 const tanisha {
  👋 intro :  Hi, I’m Tanisha Bisht, </br>
- 👀 iam   : A Frontend web Developer,
- 📝 skills : [ HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic) ],
- 📞 Contact : Contact me on tanishabisht007@gmail.com,
- 👉 Pronouns : Tanisha Bisht,
- 😊 Hobbies : Dancing and yoga
+ 👀 iam   : A Frontend web Developer,</br>
+ 📝 skills : [ HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic) ],</br>
+ 📞 Contact : Contact me on tanishabisht007@gmail.com,</br>
+ 👉 Pronouns : Tanisha Bisht,</br>
+ 😊 Hobbies : Dancing and yoga</br>
   }
 
 
