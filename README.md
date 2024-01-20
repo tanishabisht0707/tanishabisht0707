@@ -10,7 +10,7 @@ const tanisha { </br>
  😊 Hobbies : Dancing and yoga</br>
  </br>
   }
-  http://localhost:5173/
+  http://localhost:5173/ </br>
   http://127.0.0.1:5500/sneaks.html
 
 
