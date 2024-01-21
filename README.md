@@ -15,10 +15,10 @@ const tanisha { </br>
  <b>My Projects</b> ✨ </br>
   </br>
  <b>Portfolio</b> : https://portfolio-b3493a.netlify.app</br>
- <b>Ecommerce fashion</b> : https://shestore.netlify.app/ </br>
- <b>Recepe website</b> : https://recepesite.netlify.app </br>
- <b>Dogs Adoption website</b> : https://adoptionsite.netlify.app </br>
- <b>Ecommerce sneakers</b> :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
+ <b>sheStore</b> : https://shestore.netlify.app/ </br>
+ <b>Recepesite</b> : https://recepesite.netlify.app </br>
+ <b>Dogs Adoption</b> : https://adoptionsite.netlify.app </br>
+ <b>Sneaks</b> :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
  
  
   
