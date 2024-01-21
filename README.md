@@ -1,5 +1,5 @@
 <b>console.log( Namaste 🙏 world , This is my bio)</b>
-</hr>
+<hr>
 
 const tanisha { </br>
 </br>
@@ -12,7 +12,8 @@ const tanisha { </br>
  </br>
   }
 
- <b>My Projects</b> ✨ </br>
+ <b>My Projects</b> ✨ </br>\
+ <hr>
   </br>
  <b>Portfolio</b> : https://portfolio-b3493a.netlify.app</br>
  <b>sheStore</b> : https://shestore.netlify.app/ </br>
