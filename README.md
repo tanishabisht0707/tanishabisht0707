@@ -11,9 +11,8 @@ const tanisha { </br>
  👉 Hobbies : Dancing and yoga</br>
  </br>
   }
-
- <b>My Projects</b> ✨ </br>\
  <hr>
+ <b>My Projects</b> ✨ </br>
   </br>
  <b>Portfolio</b> : https://portfolio-b3493a.netlify.app</br>
  <b>sheStore</b> : https://shestore.netlify.app/ </br>
