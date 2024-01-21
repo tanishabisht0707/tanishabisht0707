@@ -13,7 +13,7 @@ const tanisha { </br>
   }
 
  <b>My Projects</b> ✨ </br>
- Portfolio : https://lighthearted-brioche-b54f6d.netlify.app >/br>
+ Portfolio : https://lighthearted-brioche-b54f6d.netlify.app </br>
  Website (HTML, CSS, Javascript) :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
  
   
