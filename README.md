@@ -13,7 +13,9 @@ const tanisha { </br>
   }
 
  <b>My Projects</b> ✨ </br>
- Portfolio : https://shestore.netlify.app/ </br>
+ Portfolio : https://incandescent-crostata-b3493a.netlify.app</br>
+ Ecommerce Website : https://shestore.netlify.app/ </br>
  Website (HTML, CSS, Javascript) :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
+ 
  
   
