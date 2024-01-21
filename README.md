@@ -1,4 +1,5 @@
 <b>console.log( Namaste 🙏 world , This is my bio)</b>
+ </hr>
 
 const tanisha { </br>
 </br>
@@ -16,12 +17,3 @@ const tanisha { </br>
  Website (HTML, CSS, Javascript) :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
  
   
-
-
-
-
-
-<!---
-tanishabisht0707/tanishabisht0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
