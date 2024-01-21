@@ -13,9 +13,10 @@ const tanisha { </br>
   }
 
  <b>My Projects</b> ✨ </br>
- Portfolio : https://portfolio-b3493a.netlify.app</br>
- Ecommerce Website : https://shestore.netlify.app/ </br>
- Website (HTML, CSS, Javascript) :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
+ <b>Portfolio</b> : https://portfolio-b3493a.netlify.app</br>
+ <b>Ecommerce fashion</b> : https://shestore.netlify.app/ </br>
+ <b>Recepe website</b> : https://recepesite.netlify.app </br>
+ <b>Ecommerce sneakers</b> :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
  
  
   
