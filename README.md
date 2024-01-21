@@ -1,5 +1,5 @@
 <b>console.log( Namaste 🙏 world , This is my bio)</b>
- </hr>
+</hr>
 
 const tanisha { </br>
 </br>
