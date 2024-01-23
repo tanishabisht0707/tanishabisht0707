@@ -19,7 +19,7 @@ const tanisha { </br>
  <b>sheStore</b>      : https://shestore.netlify.app</br>
  <b>Recepesite</b>    : https://recepesite.netlify.app </br>
  <b>Dogs Adoption</b> : https://adoptionsite.netlify.app </br>
- <b>Sneaks</b>        :  https://tanishabisht0707.github.io/Ecommerce-website-Project/</br>
+ <b>Sneaks</b>        : https://sneakerswear.netlify.app</br>
  
  
   
