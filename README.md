@@ -1,25 +1,30 @@
 <b>console.log( Namaste 🙏 world , This is my bio)</b>
-<hr>
 
-const tanisha { </br>
+<b>const</b> AboutMe  <b> { </b> </br>
 </br>
- 👋 intro    :  Hi, I’m Tanisha Bisht, </br>
- 👉 iam      : A Frontend web Developer,</br>
- 👉 skills   : [ HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic) ],</br>
- 👉 Contact  : Contact me on tanishabisht007@gmail.com,</br>
- 👉 Pronouns :she/her,</br>
- 👉 Hobbies  : Dancing and yoga</br>
+ 👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht , </br>
+  <b>From</b>  :  Dwarka New Delhi , </br>
+   <b>Iam</b>    :  A Frontend web Developer ,</br>
+   <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic)  ] ,</br>
+   <b>Contact</b>  :  tanishabisht007@gmail.com ,</br>
+   <b>Pronounce</b> :  she/her ,</br>
+   <b>Hobbies</b> :  Dancing and yoga ,</br>
+   <b>Friend</b>   :  Javascript ,</br>
+   <b>BestFriend</b> : React JS
  </br>
-  }
+ </br>
+ <b> } </b>
  <hr>
- <b>My Projects</b> ✨ </br>
+  <b> const </b> MyWork ✨ <b> { </b> </br> 
   </br>
- <b>Portfolio</b>     : https://portfolio-b3493a.netlify.app</br>
+ <b>Portfolio</b>     : https://portfolio-b3493a.netlify.app ,</br>
  </br>
- <b>sheStore</b>      : https://shestore.netlify.app</br>
- <b>Recepesite</b>    : https://recepesite.netlify.app </br>
- <b>Dogs Adoption</b> : https://adoptionsite.netlify.app </br>
- <b>Sneaks</b>        : https://sneakerswear.netlify.app</br>
+ <b>sheStore</b>      : https://shestore.netlify.app ,</br>
+ <b>Recepesite</b>    : https://recepesite.netlify.app ,</br>
+ <b>Dogs Adoption</b> : https://adoptionsite.netlify.app , </br>
+ <b>Sneaks</b>        : https://sneakerswear.netlify.app ,</br>
+ </br>
+ <b> } </b>
  
  
   
