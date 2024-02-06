@@ -1,6 +1,7 @@
-<b>console.log( Namaste 🙏 world , This is my bio)</b>
-
+<b>console.log( Namaste 🙏 world , This is my bio)</b>  
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" width="100" alt /> </br>
 <b>const</b> AboutMe  <b> { </b> </br>
+
 </br>
  👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht , </br>
   <b>From</b>  :  Dwarka New Delhi , </br>
@@ -26,5 +27,5 @@
  </br>
  <b> } </b>
  
- 
+
   
