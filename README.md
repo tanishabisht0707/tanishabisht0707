@@ -3,12 +3,11 @@
 <b>const</b> AboutMe  <b> { </b> </br>
 
 </br>
- 👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht 1st year BCA student from Indra gandhi national open university., </br>
+ 👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht 2nd year BCA student from Indra gandhi national open university., </br>
   <b>From</b>  :  Dwarka New Delhi , </br>
    <b>Iam</b>    :  A Frontend web Developer ,</br>
-   <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Tailwind Css (Basic)  ] ,</br>
+   <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Bootstap  ] ,</br>
    <b>Contact</b>  :  tanishabisht007@gmail.com ,</br>
-   <b>Pronounce</b> :  she/her ,</br>
    <b>Hobbies</b> :  Dancing and yoga ,</br>
    <b>Friend</b>   :  Javascript ,</br>
    <b>BestFriend</b> : React JS
