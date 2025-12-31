@@ -17,7 +17,7 @@
  <hr>
   <b> const </b> MyWork ✨ <b> { </b> </br> 
   </br>
- <b>Portfolio</b>     : https://myportfolioreactapp.netlify.app,</br>
+ <b>Portfolio</b>     : https://tanisha-bisht.netlify.app,</br>
  </br>
  <b>sheStore</b>      : https://shestore.netlify.app ,</br>
  <b>Recepesite</b>    : https://recepesite.netlify.app ,</br>
