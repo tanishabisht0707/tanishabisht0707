@@ -4,7 +4,7 @@
  👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht, Frontned Engineer.</br>
    <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Tailwind Css , TypeScript , Git , Postman , SQL , nodejs] ,</br>
    <b>Portfolio</b>  :  https://tanisha-bisht.netlify.app</br>
-    <b>Live Website : </b>      : https://maplecloudtechnolgies.com ,</br>
+    <b>Live Website : </b>      : https://maplecloudtechnologies.com ,</br>
     <b>Live Website : </b>      : https://devray.in ,</br>
    <b>Currently building: LMS & DMS systems  </b> 
    <b>Interested in: UI architecture & performance  </b> 
