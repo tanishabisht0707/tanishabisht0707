@@ -9,8 +9,7 @@
 <b>Interested in UI Architecture, Scalable Software Website Development, and Performance Optimization.</b> </br>
  <b> } </b>
  <hr>
-<b>Frontend Projects:</b> These projects were created during my early learning journey, showcasing my growth and hands-on experience in frontend development ✨ <br/> <b>Portfolio</b>     : https://tanisha-bisht.netlify.app,</br>
- </br>
+<b>Frontend Projects:</b> These projects were created during my early learning journey, showcasing my growth and hands-on experience in frontend development ✨ <br/> 
  <b>sheStore</b>      : https://shestore.netlify.app ,</br>
  <b>Recepesite</b>    : https://recepesite.netlify.app ,</br>
  <b>Sneaks</b>        : https://sneakerswear.netlify.app ,</br>
