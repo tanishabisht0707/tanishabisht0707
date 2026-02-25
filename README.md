@@ -1,5 +1,4 @@
 <b>alert( Namaste 🙏 world , This is my bio)</b>  
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" width="80" alt /> </br>
 <b>const</b> AboutMe  <b> { </br> </b> 
  👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht, Frontned Engineer.</br>
    <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Tailwind Css , TypeScript , Git , Postman , SQL , nodejs] ,</br>
