@@ -1,10 +1,13 @@
 <b>alert( Namaste 🙏 world , This is my bio)</b>  
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" width="100" alt /> </br>
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/happy-robot-say-hai-5665357-4729052.gif" width="80" alt /> </br>
 <b>const</b> AboutMe  <b> { </br> </b> 
  👋 <b>Inrto</b>  :  Hi, I’m Tanisha Bisht, Frontned Engineer.</br>
    <b>Skills</b>  :  [  HTML, CSS, Javascript, React JS, Redux, Tailwind Css , TypeScript , Git , Postman , SQL , nodejs] ,</br>
    <b>Portfolio</b>  :  https://tanisha-bisht.netlify.app</br>
-   <b>Hobbies</b> :  Dancing and reading books.
+    <b>Live Website : </b>      : https://maplecloudtechnolgies.com ,</br>
+    <b>Live Website : </b>      : https://devray.in ,</br>
+   <b>Currently building: LMS & DMS systems  </b> 
+   <b>Interested in: UI architecture & performance  </b> 
  </br>
  <b> } </b>
  <hr>
